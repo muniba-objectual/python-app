@@ -1,0 +1,18 @@
+# developer_token: XvmHQQOBkY1c36trpm1Qmw
+# client_id: 286731277079-m5roekdq7koduu3bj6vsgroj4afbd39e.apps.googleusercontent.com
+# client_secret: _fBAej0SfIqJIUjzM7w-GlaT
+# refresh_token: 1//05wAEnjTjjhvuCgYIARAAGAUSNwF-L9Ir1m7Y2sBis4CUUxgYWebofnrW94EixKUuqxX1Yji2eYKXzwctji20-13cfQ5U8E1kj7Y
+# use_proto_plus: True  # Set this option to either True or False
+ 
+# report_downloader:
+#   report_download_timeout: 1800
+ 
+# oauth2_mode: APPLICATION
+
+
+client_id: 286731277079-m5roekdq7koduu3bj6vsgroj4afbd39e.apps.googleusercontent.com
+client_secret: _fBAej0SfIqJIUjzM7w-GlaT
+refresh_token: 1//05wAEnjTjjhvuCgYIARAAGAUSNwF-L9Ir1m7Y2sBis4CUUxgYWebofnrW94EixKUuqxX1Yji2eYKXzwctji20-13cfQ5U8E1kj7Y
+developer_token: XvmHQQOBkY1c36trpm1Qmw
+login_customer_id: 3265367567
+use_proto_plus: True  # Set this option to either True or False
